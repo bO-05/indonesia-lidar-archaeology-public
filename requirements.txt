@@ -1,0 +1,12 @@
+numpy
+scipy
+rasterio
+pyproj
+laspy[lazrs]
+pillow
+matplotlib
+pandas
+pysheds
+requests
+libarchive-c
+# PDAL (for scripts/ground_variants.sh) is installed separately, e.g. from conda-forge: pdal python-pdal

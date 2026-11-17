@@ -1,0 +1,21 @@
+# large or regenerable data
+data/
+tiles/
+work/
+*.laz
+*.las
+*.rar
+*.tif
+*.tiff
+*.zip
+# credentials
+.env
+*.token
+.venv/
+__pycache__/
+# exact-location material is never committed
+*_PRIVATE.*
+/private/
+# local-only promotional drafts
+/docs/ARTICLE_DRAFT.md
+/docs/X_THREAD_DRAFT.md

@@ -1,0 +1,14 @@
+# DEMNAS 8 m tiles to download next, ranked by archaeological potential.
+# Grid: NLP-style, col=floor((lon-90)/1.5)+1, row=16+floor(lat); 0.5deg cell n=1..6 (bottom row 1-3), 0.25deg sub m=1..4 (bottom row 1-2). Verified on all 11 downloaded tiles.
+1113-54  # Kota Kapur, Bangka (earthen rampart control + surroundings)  [105.75-106.00E, -2.25--2.00]
+1113-52  # Kota Kapur, Bangka - south neighbour (site lies ~1 km from the 1113-54 bottom edge)  [105.75-106.00E, -2.50--2.25]
+1113-14  # Air Sugihan, OKI (Sriwijaya-era wetland settlement sites) - north  [105.25-105.50E, -2.75--2.50]
+1113-12  # Air Sugihan, OKI - south/west  [105.25-105.50E, -3.00--2.75]
+1013-52  # Karang Agung Tengah, Lalan, Musi Banyuasin (proto-Sriwijaya sites)  [104.25-104.50E, -2.50--2.25]
+0619-61  # Kota Cina, Medan Marelan (11-13th c. port; control)  [98.50-98.75E, 3.50-3.75]
+1014-44  # Lambur / Muara Sabak Timur, Tanjung Jabung Timur  [103.75-104.00E, -1.25--1.00]
+1014-51  # Batanghari floodplain downstream of Muara Jambi (Kumpeh-Suak Kandis)  [104.00-104.25E, -1.50--1.25]
+1013-62  # Sungsang / Musi delta, Banyuasin  [104.75-105.00E, -2.50--2.25]
+1210-21  # Batujaya north edge, Citarum delta (Karawang coast)  [107.00-107.25E, -6.00--5.75]
+1209-54  # Cibuaya, Karawang (Citarum delta east, unur/brick-site zone)  [107.25-107.50E, -6.25--6.00]
+1012-62  # Kayu Agung, OKI (Komering lowland)  [104.75-105.00E, -3.50--3.25]
